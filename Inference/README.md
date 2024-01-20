@@ -3,7 +3,7 @@
 The official pytorch implementation of the paper: **Accelerating Cardiac MRI via Deblurring without Sensitivity Estimation**
 
 
->其中my_checkpoint.pth文件太大，我放到了[百度网盘](https://pan.baidu.com/s/1l70_Q_Zq7xZhR00G6Qy_dg?pwd=ttwd) 提取码：ttwd 
+>其中my_checkpoint.pth文件太大，我放到了[BaiduNetdisk](链接：https://pan.baidu.com/s/1l70_Q_Zq7xZhR00G6Qy_dg?pwd=ttwd ) 
 
 首先将文件放到装好docker的linux服务器下，成功测试过的环境是ubuntu。
 
